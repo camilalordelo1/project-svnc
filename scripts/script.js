@@ -10,7 +10,7 @@ var cardObject = [
         autor: "José Victor Santos Alves",
         data: "07/04/2019",
         local: "Av. Deputado Cantidio Sampaio, São 	Paulo - SP",
-        descricao: " A paisagem mostra parte do Jardim 	Vista Alegre, Num sistema de moradia popular, 	Circundando o cinturão verde de Serra da 	Cantareira",
+        descricao: " Foto tirada de um ponto alto da Av. Deputado Cantidio Sampaio. A paisagem mostra parte do Jardim. Vista Alegre, num sistema de moradia popular, Circundando o cinturão verde da serra da Cantareira.",
         image: "/img/slider/Imagem2.jpeg"
     },
     {
@@ -54,7 +54,20 @@ var cardObject = [
         local: " Parque de Taipas, São Paulo - SP",
         descricao: "Está foto foi tirada de uma laje às 6:30 da manhã, direção nordeste, por um celular e sem edição. A paisagem é cultural, do Parque Taipas conhecido como Arvão. A luz difusa na escuridão matinal, exibe uma área de ocupação residencial, predominantemente horizontal.",
         image: "/img/slider/Imagem8.jpeg"
-    }
+    },
+    {
+        autor: "Pedro Henrique",
+        data: "31/04/2019",
+        local: "Jardim Panamericano - Jaraguá, São Paulo - SP",
+        descricao: "A paisagem é  dividida em diversos planos, o primeiro é uma área composta por gramínea e terraplanagem, o segundo exibe um conjunto residencial de classe C, horizontal e vertical, o terceiro o pico do Jaraguá.",
+        image: "/img/slider/Imagem9.jpeg"
+    },
+    {
+        autor: "Yasmim Gabrielle",
+        data: "27/04/2019",
+        descricao: "Foto tirada na Avenida Itaberaba, em São Paulo -SP. Predomina comércios horizontais e moradias na vertical com carros estacionados apresentando um ambiente típico urbano. Ao fundo o dia ensolarado e árvores compondo a paisagem. Foi tirada no período da tarde.",
+        image: "/img/slider/Imagem10.jpeg"
+    },
     
 ];
 
